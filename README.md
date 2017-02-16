@@ -6,7 +6,6 @@
 
 - - - -
 ### Result ###
-[a screen shot of the app]
-![Alt text](url/to/screenshot) "a screenshot"
+[a screen shot of the app] "a screenshot"
 
 [instructions on how to run it locallly]
